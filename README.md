@@ -29,7 +29,7 @@
       --> HELP? A link to a random daily drawing tutorial will be posted simply because I need drawing help and inspiration. No need to use it. Found a cool resource? Please send it my way to share it here! 
       <br>
       <br>
-        --> TEXT ME (not the group) a photo of your bird creation by 11:59pm PT and I'll upload all photos here each evening (broken image icons below will be replaced by your creations. Better than receiving multiple bird texts a day, and a fun way to see everyone's different styles together!
+        --> TEXT ME (not the group) a photo of your bird creation by 11:59pm PT and I'll upload all photos here each night. Better than receiving multiple bird texts a day, and a fun way to see everyone's different styles together!
         <br>
         <br>
   --> CONSISTENCY is key! It is more important than technique, perfection, and maybe even improvement. 
@@ -38,7 +38,10 @@
   --> FLEX your creativity muscle and challenge yourself to find a few (or more!) minutes every day to show up for this group!
   <br>
   <br>
-
+  --> FLEX your creativity muscle and challenge yourself to find a few (or more!) minutes every day to show up for this group!
+  <br>
+  <br>
+(I promise this page will look a lot better tomorrow! Broken image icons below will be replaced by your creations.) 
 </header>
 
 
@@ -221,7 +224,7 @@ How to Draw Birds from JohnMuirLaws.com</a>
   <br>
   <br>
   <img src="https://img.freepik.com/free-vector/set-bird-species-engraved-sketches-illustration_74855-16242.jpg" class="w3-round w3-image" alt="Table" style="width:100%">
-  </p>
+  
   
 <p class="w3-medium">
 
@@ -233,13 +236,5 @@ How to Draw Birds from JohnMuirLaws.com</a>
 
 
 
-
-
-
-<!-- End Content -->
-</div>
-
-</body>
-</html>
 
 
