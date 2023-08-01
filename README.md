@@ -50,7 +50,7 @@
 
 
   
-
+    <a href="https://www.audubon.org/field-guide/bird/scarlet-tanager">
   <img src="https://dariuszzdziebk.wpenginepowered.com/wp-content/uploads/2016/12/Scarlet-Tanager.-Photo-by-Dan-Behm.-1024x663.png" alt="August 1 = Scarlet Tanager" 
  class="w3-round w3-image" alt="Table" style="width:100%"></a>
 </div>
@@ -59,12 +59,12 @@
 <h1 class="w3-center">
     <a href="https://www.audubon.org/field-guide/bird/scarlet-tanager">
   Today's bird:
-Scarlet Tanager</a></h>
+Scarlet Tanager</a>
 
   <h4>Rules:
   
-Primarily insectivorous during the summer, Scarlet Tanagers also eat fruit during migration and on the wintering grounds. They spend much of their time skulking among the wide leaves of deciduous trees in the forest canopy, where they are hard to see. They sing a burry, rambling song and give a distinctive, harsh chick-burr call.</p> </h4>
-</div>
+Primarily insectivorous during the summer, Scarlet Tanagers also eat fruit during migration and on the wintering grounds. They spend much of their time skulking among the wide leaves of deciduous trees in the forest canopy, where they are hard to see. They sing a burry, rambling song and give a distinctive, harsh chick-burr call. </h4>
+<br>
 <br>
 
 
