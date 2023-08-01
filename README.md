@@ -42,6 +42,8 @@
   <br>
   <br>
 (I promise this page will look a lot better tomorrow! Broken image icons below will be replaced by your creations.) 
+<br>
+<br>
 </header>
 
 
@@ -64,7 +66,7 @@
   Today's bird:
 Scarlet Tanager</a>
 
-  <h4>Rules:
+  <h4>
   
 Primarily insectivorous during the summer, Scarlet Tanagers also eat fruit during migration and on the wintering grounds. They spend much of their time skulking among the wide leaves of deciduous trees in the forest canopy, where they are hard to see. They sing a burry, rambling song and give a distinctive, harsh chick-burr call. </h4>
 <br>
@@ -85,8 +87,8 @@ How to Draw Birds from JohnMuirLaws.com</a>
 
   <!-- Footer -->
   <Footer class="w3-light-grey w3-container w3-xlarge w3-padding-24">
-    <a href="#" class="w3-left w3-button w3-light-grey"><August 1: Scarlet Tanager</a>
-  </header>
+    <a href="#" class="w3-left w3-button w3-light-grey">August 1: Scarlet Tanager</a>
+
   
 <div class="w3-row-padding w3-margin-top">
 
@@ -228,11 +230,6 @@ How to Draw Birds from JohnMuirLaws.com</a>
   
 <p class="w3-medium">
 
-
-
-</div>
-</div>
-</div>
 
 
 
