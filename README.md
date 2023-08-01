@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <meta charset="UTF-8">
 
@@ -50,18 +50,20 @@
 
 
   
-  <a href="https://www.audubon.org/field-guide/bird/scarlet-tanager">
+
   <img src="https://dariuszzdziebk.wpenginepowered.com/wp-content/uploads/2016/12/Scarlet-Tanager.-Photo-by-Dan-Behm.-1024x663.png" alt="August 1 = Scarlet Tanager" 
  class="w3-round w3-image" alt="Table" style="width:100%"></a>
 </div>
 
-<div class="w3-half w3-padding-large">
+
 <h1 class="w3-center">
-    <a href="https://www.audubon.org/field-guide/bird/scarlet-tanager">Today's bird:
-Scarlet Tanager</h1></a>
+    <a href="https://www.audubon.org/field-guide/bird/scarlet-tanager">
+  Today's bird:
+Scarlet Tanager</a></h>
 
-
-Primarily insectivorous during the summer, Scarlet Tanagers also eat fruit during migration and on the wintering grounds. They spend much of their time skulking among the wide leaves of deciduous trees in the forest canopy, where they are hard to see. They sing a burry, rambling song and give a distinctive, harsh chick-burr call.</p>
+  <h4>Rules:
+  
+Primarily insectivorous during the summer, Scarlet Tanagers also eat fruit during migration and on the wintering grounds. They spend much of their time skulking among the wide leaves of deciduous trees in the forest canopy, where they are hard to see. They sing a burry, rambling song and give a distinctive, harsh chick-burr call.</p> </h4>
 </div>
 <br>
 
@@ -218,7 +220,7 @@ How to Draw Birds from JohnMuirLaws.com</a>
     This challenge was inspired at a watercolor class Claire and I attended last week. The instructor and her sister took up watercolors as a way to stay connected and creative during the COVID lockdown. Both nature lovers, they would take turns choosing a different bird each day to draw and share, which turned out to be a great way to stay connected to each other and also to their creative selves. Further exploration led to finding the artist   <a href="http://www.neikoart.com/blog/what-am-i-up-to">Neiko Ng</a> who did a similar bird-a-day personal challenge with the motto, <a href="https://www.bravethewoods.com/blog/draw-a-bird-a-day-depression-goes-away#:~:text=Back%20in%20September%2C%20illustrator%20Neiko,when%20the%20art%20was%20finished">"A bird a day keeps depression away"</a> and the content creator Struthless who says <a href="https://www.youtube.com/watch?v=M6NsEDwHHiE"> drawing an ibis everyday</a> changed his life.
   <br>
   <br>
-  
+  <img src="https://img.freepik.com/free-vector/set-bird-species-engraved-sketches-illustration_74855-16242.jpg" class="w3-round w3-image" alt="Table" style="width:100%">
   </p>
   
 <p class="w3-medium">
